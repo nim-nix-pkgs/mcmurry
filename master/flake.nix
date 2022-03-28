@@ -11,7 +11,6 @@
   inputs.src-mcmurry-master.ref   = "refs/heads/master";
   inputs.src-mcmurry-master.owner = "chocobo333";
   inputs.src-mcmurry-master.repo  = "mcmurry";
-  inputs.src-mcmurry-master.dir   = "";
   inputs.src-mcmurry-master.type  = "github";
   
   inputs."asciitype".owner = "nim-nix-pkgs";
