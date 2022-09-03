@@ -1,0 +1,13 @@
+
+.DS_Store
+.vscode
+
+# Binary files
+bin/
+
+# Nim's cache files
+nimcache/
+
+output.*
+parser.nim
+parserf.nim
